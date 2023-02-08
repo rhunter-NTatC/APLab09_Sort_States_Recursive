@@ -62,21 +62,7 @@ public class UnitedStates
 	}
 	
 	
-	/*
-	 * Insertion Sort
-	 * 
-	 * Use an insertion sort to order the ArrayList
-	 * by the state's population
-	 */
-	public void sortPopulation() {
-		
-		
-		
-		
-		
-		
-		
-	}
+	
 	
 	
 
